@@ -1,0 +1,1290 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/d3045f90-64e2-578b-b035-544dabdb2c42",
+      "url": "https://www.nytimes.com/2021/07/21/well/move/weight-training-fat.html",
+      "id": 100000007873785,
+      "asset_id": 100000007873785,
+      "source": "New York Times",
+      "published_date": "2021-07-21",
+      "updated": "2021-08-04 09:23:55",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Exercise;Muscles;Obesity;Research;Weight Lifting;Weight;FASEB Journal",
+      "column": null,
+      "byline": "By Gretchen Reynolds",
+      "type": "Article",
+      "title": "Lifting Weights? Your Fat Cells Would Like to Have a Word.",
+      "abstract": "A cellular chat after your workout may explain in part why weight training burns fat.",
+      "des_facet": [
+        "Exercise",
+        "Muscles",
+        "Obesity",
+        "Research",
+        "Weight Lifting",
+        "Weight"
+      ],
+      "org_facet": [
+        "FASEB Journal"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Testa for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/27/well/physed-weights/physed-weights-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/27/well/physed-weights/physed-weights-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/27/well/physed-weights/physed-weights-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fcde30a2-f609-531f-b5c9-8e7df51a2f44",
+      "url": "https://www.nytimes.com/2021/07/24/technology/joseph-mercola-coronavirus-misinformation-online.html",
+      "id": 100000007878607,
+      "asset_id": 100000007878607,
+      "source": "New York Times",
+      "published_date": "2021-07-24",
+      "updated": "2021-08-02 21:26:45",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Rumors and Misinformation;Social Media;Content Type: Personal Profile;Mercola, Joseph M (1954- );Elizabeth, Erin",
+      "column": null,
+      "byline": "By Sheera Frenkel",
+      "type": "Article",
+      "title": "The Most Influential Spreader of Coronavirus Misinformation Online",
+      "abstract": "Researchers and regulators say Joseph Mercola, an osteopathic physician, creates and profits from misleading claims about Covid-19 vaccines.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Rumors and Misinformation",
+        "Social Media",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Mercola, Joseph M (1954- )",
+        "Elizabeth, Erin"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joseph Mercola, an osteopathic physician in Cape Coral, Fla., is a key figure in the “Disinformation Dozen” spreading anti-vaccine messaging, researchers said.",
+          "copyright": "Mercola",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/22/business/00mercola/00mercola-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/22/business/00mercola/00mercola-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/22/business/00mercola/00mercola-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/99f9ac64-2420-5612-80b9-9dcce2621107",
+      "url": "https://www.nytimes.com/2021/07/22/health/coronavirus-breakthrough-infections-delta.html",
+      "id": 100000007874246,
+      "asset_id": 100000007874246,
+      "source": "New York Times",
+      "published_date": "2021-07-22",
+      "updated": "2021-07-31 15:52:07",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Coronavirus Risks and Safety Concerns;Vaccination and Immunization;Disease Rates;Coronavirus (2019-nCoV);United States",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "Why Vaccinated People Are Getting ‘Breakthrough’ Infections",
+      "abstract": "The vaccines are effective at preventing serious illness and death, but they are not a golden shield against the coronavirus.",
+      "des_facet": [
+        "your-feed-science",
+        "Coronavirus Risks and Safety Concerns",
+        "Vaccination and Immunization",
+        "Disease Rates",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Covid testing at a site in in Los Angeles earlier this month.",
+          "copyright": "Mario Tama/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/22/science/22virus-breakthrough1/22virus-breakthrough1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/22/science/22virus-breakthrough1/22virus-breakthrough1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/22/science/22virus-breakthrough1/22virus-breakthrough1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ce5249ee-7edc-5e8c-b356-a19c1b1dd0db",
+      "url": "https://www.nytimes.com/2021/07/27/health/cdc-masks-indoors-delta-variant.html",
+      "id": 100000007888407,
+      "asset_id": 100000007888407,
+      "source": "New York Times",
+      "published_date": "2021-07-27",
+      "updated": "2021-08-03 18:25:07",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Masks;Coronavirus (2019-nCoV);Vaccination and Immunization;Coronavirus Risks and Safety Concerns;Centers for Disease Control and Prevention;United States",
+      "column": null,
+      "byline": "By Daniel E. Slotnik, Apoorva Mandavilli and Sheryl Gay Stolberg",
+      "type": "Article",
+      "title": "Here’s what we know about the C.D.C.’s new mask recommendations for vaccinated people.",
+      "abstract": "The new guidance calls for masks in schools and indoors in areas with low rates of vaccination for everyone regardless of vaccination status.",
+      "des_facet": [
+        "Masks",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Coronavirus Risks and Safety Concerns"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At a coffee shop last week after Los Angeles County reimposed an indoor mask mandate for everyone, regardless of vaccination status.",
+          "copyright": "Morgan Lieberman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/27/world/27virus-briefing-masks/27virus-briefing-masks-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/27/world/27virus-briefing-masks/27virus-briefing-masks-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/27/world/27virus-briefing-masks/27virus-briefing-masks-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fbe94ab3-9bd6-5047-b672-a5fa27a79ed4",
+      "url": "https://www.nytimes.com/2021/07/22/us/bear-attack-alaska.html",
+      "id": 100000007878409,
+      "asset_id": 100000007878409,
+      "source": "New York Times",
+      "published_date": "2021-07-22",
+      "updated": "2021-07-23 12:25:22",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Bears;Rescues;United States Coast Guard;Alaska",
+      "column": null,
+      "byline": "By Neil Vigdor",
+      "type": "Article",
+      "title": "A Grizzly Bear Terrorized a Man for Days in Alaska. The Coast Guard Saw His SOS.",
+      "abstract": "Down to his last rounds of ammunition, with bruises and a leg injury, the man was rescued by a helicopter crew that just happened by.",
+      "des_facet": [
+        "Bears",
+        "Rescues"
+      ],
+      "org_facet": [
+        "United States Coast Guard"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Alaska"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mining camp near Nome, Alaska, where a Coast Guard helicopter crew rescued a man who had been attacked by a bear that “kept coming back every night.”",
+          "copyright": "United States Coast Guard",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/21/multimedia/21xp-bear/21xp-bear-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/21/multimedia/21xp-bear/merlin_191136015_6c38210e-354a-4f03-ba82-4a99f5fced01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/21/multimedia/21xp-bear/merlin_191136015_6c38210e-354a-4f03-ba82-4a99f5fced01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/df9c5845-0e3d-509a-8aa6-fbeead601aa9",
+      "url": "https://www.nytimes.com/2021/07/14/world/asia/guo-gangtang-china.html",
+      "id": 100000007865446,
+      "asset_id": 100000007865446,
+      "source": "New York Times",
+      "published_date": "2021-07-14",
+      "updated": "2021-07-15 10:11:38",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "Children and Childhood;Kidnapping and Hostages;Human Trafficking;DNA (Deoxyribonucleic Acid);Movies;Guo Gangtang;China",
+      "column": null,
+      "byline": "By Vivian Wang and Joy Dong",
+      "type": "Article",
+      "title": "Parents Who Never Stopped Searching Reunite With Son Abducted 24 Years Ago",
+      "abstract": "Guo Gangtang’s cross-country, decades-long search for his son inspired a movie. Now, there’s an ending fit for Hollywood.",
+      "des_facet": [
+        "Children and Childhood",
+        "Kidnapping and Hostages",
+        "Human Trafficking",
+        "DNA (Deoxyribonucleic Acid)",
+        "Movies"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Guo Gangtang"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Guo Gangtang and his wife, Zhang Wenge, were reunited on Sunday with their son who was abducted 24 years ago.",
+          "copyright": "China Daily, via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/08/14/world/14china-reunion-sub/14china-reunion-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/14/world/14china-reunion-sub/14china-reunion-sub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/14/world/14china-reunion-sub/14china-reunion-sub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d13457aa-13a8-56dd-b9b3-5716164a94ea",
+      "url": "https://www.nytimes.com/2021/07/04/sports/basketball/espn-rachel-nichols-maria-taylor.html",
+      "id": 100000007779268,
+      "asset_id": 100000007779268,
+      "source": "New York Times",
+      "published_date": "2021-07-04",
+      "updated": "2021-07-23 19:59:24",
+      "section": "Sports",
+      "subsection": "N.B.A.",
+      "nytdsection": "sports",
+      "adx_keywords": "Television;Black People;Athletics and Sports;Workplace Hazards and Violations;Video Recordings, Downloads and Streaming;Hiring and Promotion;Race and Ethnicity;Women and Girls;Basketball;internal-storyline-no;Discrimination;News and News Media;Nichols, Rachel;Taylor, Maria (1987- );Pitaro, James A;Wojnarowski, Adrian;Rose, Jalen;Mendelsohn, Adam;ESPN",
+      "column": null,
+      "byline": "By Kevin Draper",
+      "type": "Article",
+      "title": "A Disparaging Video Prompts Explosive Fallout Within ESPN",
+      "abstract": "In comments still rippling through the network, the reporter Rachel Nichols, who is white, said Maria Taylor, who is Black, earned the job to host 2020 N.B.A. finals coverage because ESPN was “feeling pressure” on diversity.",
+      "des_facet": [
+        "Television",
+        "Black People",
+        "Athletics and Sports",
+        "Workplace Hazards and Violations",
+        "Video Recordings, Downloads and Streaming",
+        "Hiring and Promotion",
+        "Race and Ethnicity",
+        "Women and Girls",
+        "Basketball",
+        "internal-storyline-no",
+        "Discrimination",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "ESPN"
+      ],
+      "per_facet": [
+        "Nichols, Rachel",
+        "Taylor, Maria (1987- )",
+        "Pitaro, James A",
+        "Wojnarowski, Adrian",
+        "Rose, Jalen",
+        "Mendelsohn, Adam"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maria Taylor, at left front, considered refusing to appear on ESPN’s “NBA Countdown” along with her costars, from left, Jalen Rose, Adrian Wojnarowski and Jay Williams. Rachel Nichols, right, was heard on a video making disparaging comments about Taylor. Jimmy Pitaro, center, ESPN’s president, has tried to smooth over the relationships.",
+          "copyright": "Eleanor Shakespeare",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/espn-illustration/espn-illustration-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/espn-illustration/espn-illustration-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/espn-illustration/espn-illustration-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/827d5ecf-0e5a-5f7d-a5c1-71654a53be4a",
+      "url": "https://www.nytimes.com/2021/08/03/well/live/covid-delta-variant-vaccine-symptoms.html",
+      "id": 100000007900001,
+      "asset_id": 100000007900001,
+      "source": "New York Times",
+      "published_date": "2021-08-03",
+      "updated": "2021-08-05 11:33:35",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Coronavirus Risks and Safety Concerns;Content Type: Service;Coronavirus (2019-nCoV);Masks;Coronavirus Reopenings;Vaccination and Immunization;Disease Rates;United States",
+      "column": null,
+      "byline": "By Tara Parker-Pope",
+      "type": "Article",
+      "title": "Should I Mask? Can I Travel? What About Hugs? How Delta Is Changing Advice for the Vaccinated",
+      "abstract": "The rise of the Delta variant of the coronavirus has raised new questions about how the vaccinated can stay safe and avoid breakthrough infections. We asked the experts for advice.",
+      "des_facet": [
+        "Coronavirus Risks and Safety Concerns",
+        "Content Type: Service",
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "Coronavirus Reopenings",
+        "Vaccination and Immunization",
+        "Disease Rates"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/08/03/well/03Well-DeltaNow1/03Well-DeltaNow1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/03/well/03Well-DeltaNow1/03Well-DeltaNow1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/03/well/03Well-DeltaNow1/03Well-DeltaNow1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d97f4dfe-2160-56f1-8f59-ec0c50c7cd1f",
+      "url": "https://www.nytimes.com/2021/07/30/health/covid-cdc-delta-masks.html",
+      "id": 100000007894933,
+      "asset_id": 100000007894933,
+      "source": "New York Times",
+      "published_date": "2021-07-30",
+      "updated": "2021-08-03 06:28:12",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Vaccination and Immunization;your-feed-science;Centers for Disease Control and Prevention;United States",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "C.D.C. Internal Report Calls Delta Variant as Contagious as Chickenpox",
+      "abstract": "Infections in vaccinated Americans are rare, compared with those in unvaccinated people, the document said. But when they occur, vaccinated people may spread the virus just as easily.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Vaccination and Immunization",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shoppers in Los Angeles. The C.D.C. now recommends that even vaccinated people wear masks in communities where the virus is surging because of the Delta variant.",
+          "copyright": "Marcio Jose Sanchez/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/29/multimedia/29virus-delta-2/29virus-delta-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/29/multimedia/29virus-delta-2/merlin_191059200_7dedd77d-04cb-474e-8a58-db15ce61146f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/29/multimedia/29virus-delta-2/merlin_191059200_7dedd77d-04cb-474e-8a58-db15ce61146f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/264a13b2-71fa-56c7-b6c6-f377f41eeb88",
+      "url": "https://www.nytimes.com/2021/07/24/style/are-you-in-an-inter-intimate-relationship.html",
+      "id": 100000007794156,
+      "asset_id": 100000007794156,
+      "source": "New York Times",
+      "published_date": "2021-07-24",
+      "updated": "2021-07-26 13:52:00",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Dating and Relationships;Touch (Sense);Content Type: Service",
+      "column": null,
+      "byline": "By Allison Hope",
+      "type": "Article",
+      "title": "Are You in an ‘Inter-Intimate’ Relationship?",
+      "abstract": "For some couples, having different nonsexual intimacy preferences can be a strain on the relationship. Here’s how to meet in the middle.",
+      "des_facet": [
+        "Dating and Relationships",
+        "Touch (Sense)",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tatjana Prenzel",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/25/fashion/15interintimate-relationships/15interintimate-relationships-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/25/fashion/15interintimate-relationships/15interintimate-relationships-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/25/fashion/15interintimate-relationships/15interintimate-relationships-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8b61e924-57ef-5f75-b5ae-bece373bf774",
+      "url": "https://www.nytimes.com/2021/07/30/us/politics/trump-justice-department-election.html",
+      "id": 100000007895135,
+      "asset_id": 100000007895135,
+      "source": "New York Times",
+      "published_date": "2021-07-30",
+      "updated": "2021-07-31 13:40:43",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Voter Fraud (Election Fraud);United States Politics and Government;Ethics and Official Misconduct;Corruption (Institutional);Conspiracy Theories;Trump, Donald J;Rosen, Jeffrey Adam (1958- );Donoghue, Richard P (1967- );Biden, Joseph R Jr;Johnson, Ron (1955- );Jordan, Jim (1964- );Perry, Scott G (1962- );Justice Department;Republican Party",
+      "column": null,
+      "byline": "By Katie Benner",
+      "type": "Article",
+      "title": "Trump Pressed Justice Dept. to Declare Election Results Corrupt, Notes Show",
+      "abstract": "“Leave the rest to me” and to congressional allies, the former president is said to have told top law enforcement officials.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "United States Politics and Government",
+        "Ethics and Official Misconduct",
+        "Corruption (Institutional)",
+        "Conspiracy Theories"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Rosen, Jeffrey Adam (1958- )",
+        "Donoghue, Richard P (1967- )",
+        "Biden, Joseph R Jr",
+        "Johnson, Ron (1955- )",
+        "Jordan, Jim (1964- )",
+        "Perry, Scott G (1962- )"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The demands are the latest example of President Donald J. Trump’s wide-ranging efforts to delegitimize the election results during his final weeks in office.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/30/us/politics/30dc-pressure1/30dc-pressure1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/30/us/politics/30dc-pressure1/merlin_179990412_f9f6cfdf-2114-4088-a616-38c894e61168-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/30/us/politics/30dc-pressure1/merlin_179990412_f9f6cfdf-2114-4088-a616-38c894e61168-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1a534845-2f98-5fa5-bad8-7c2214e33209",
+      "url": "https://www.nytimes.com/2021/08/03/nyregion/nyc-vaccine-mandate.html",
+      "id": 100000007901915,
+      "asset_id": 100000007901915,
+      "source": "New York Times",
+      "published_date": "2021-08-03",
+      "updated": "2021-08-06 13:45:55",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Vaccination and Immunization;Vaccination Proof and Immunization Records;Coronavirus Reopenings;Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "By Emma G. Fitzsimmons, Sharon Otterman and Joseph Goldstein",
+      "type": "Article",
+      "title": "N.Y.C. will require workers and customers show proof of at least one dose for indoor dining and other activities.",
+      "abstract": "“If you want to participate in our society fully, you’ve got to get vaccinated,” Mayor Bill de Blasio said. “It’s time.”",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Vaccination Proof and Immunization Records",
+        "Coronavirus Reopenings",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At McSorley’s Old Ale House after restrictions eased in Manhattan, in May.",
+          "copyright": "Andrew Kelly/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/08/03/lens/03virus-briefing-nyc-vaccine-requirements-4/03virus-briefing-nyc-vaccine-requirements-4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/03/lens/03virus-briefing-nyc-vaccine-requirements-4/merlin_187254258_ee45dac5-82c5-4210-8b38-21cd3438c6ca-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/08/03/lens/03virus-briefing-nyc-vaccine-requirements-4/merlin_187254258_ee45dac5-82c5-4210-8b38-21cd3438c6ca-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e1ab7c75-0706-5b1c-860c-c309a85c7a8b",
+      "url": "https://www.nytimes.com/2021/08/03/business/max-berry-frontier-airlines-flight-attendant-assault.html",
+      "id": 100000007902538,
+      "asset_id": 100000007902538,
+      "source": "New York Times",
+      "published_date": "2021-08-03",
+      "updated": "2021-08-05 14:08:10",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Airlines and Airplanes;Flight Attendants;Assaults;Berry, Maxwell (1998- );Frontier Airlines Inc",
+      "column": null,
+      "byline": "By Neil Vigdor",
+      "type": "Article",
+      "title": "Passenger Arrives Taped to a Seat and Is Charged With Assaulting Flight Attendants",
+      "abstract": "Maxwell Berry, 22, of Norwalk, Ohio, punched a Frontier Airlines flight attendant and groped two others on a flight from Philadelphia to Miami, the authorities said.",
+      "des_facet": [
+        "Airlines and Airplanes",
+        "Flight Attendants",
+        "Assaults"
+      ],
+      "org_facet": [
+        "Frontier Airlines Inc"
+      ],
+      "per_facet": [
+        "Berry, Maxwell (1998- )"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e6559248-0f44-56c2-ae40-e81fecf9cb4a",
+      "url": "https://www.nytimes.com/2021/07/12/us/politics/fda-warning-johnson-johnson-vaccine-nerve-syndrome.html",
+      "id": 100000007858362,
+      "asset_id": 100000007858362,
+      "source": "New York Times",
+      "published_date": "2021-07-12",
+      "updated": "2021-08-02 05:00:46",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Guillain-Barre Syndrome;Vaccination and Immunization;Drugs (Pharmaceuticals);Coronavirus (2019-nCoV);Disease Rates;Regulation and Deregulation of Industry;United States Politics and Government;your-feed-science;your-feed-healthcare;Johnson \u0026 Johnson;Food and Drug Administration;Centers for Disease Control and Prevention",
+      "column": null,
+      "byline": "By Sharon LaFraniere and Noah Weiland",
+      "type": "Article",
+      "title": "F.D.A. Attaches Warning of Rare Nerve Syndrome to Johnson \u0026 Johnson Vaccine",
+      "abstract": "Federal regulators concluded that the risk of developing the syndrome was low, and that the benefits of the vaccine still strongly outweigh it.",
+      "des_facet": [
+        "Guillain-Barre Syndrome",
+        "Vaccination and Immunization",
+        "Drugs (Pharmaceuticals)",
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Regulation and Deregulation of Industry",
+        "United States Politics and Government",
+        "your-feed-science",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Johnson \u0026 Johnson",
+        "Food and Drug Administration",
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Administering the Johnson \u0026 Johnson vaccine in Brooklyn in May. About 12.8 million people — or about 8 percent of the fully vaccinated population in the United States — have received the Johnson \u0026 Johnson shot.",
+          "copyright": "James Estrin/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/09/us/politics/00dc-virus-vaccine/00dc-virus-vaccine-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/09/us/politics/00dc-virus-vaccine/00dc-virus-vaccine-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/09/us/politics/00dc-virus-vaccine/00dc-virus-vaccine-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b6ed5cfb-c6f0-579c-a375-4d8b194f17e8",
+      "url": "https://www.nytimes.com/2021/07/20/sports/norway-beach-handball-team.html",
+      "id": 100000007875170,
+      "asset_id": 100000007875170,
+      "source": "New York Times",
+      "published_date": "2021-07-20",
+      "updated": "2021-08-02 19:13:17",
+      "section": "Sports",
+      "subsection": "",
+      "nytdsection": "sports",
+      "adx_keywords": "Handball;Women and Girls;Discrimination;Uniforms;Team Handball;Athletics and Sports;Bathing Suits and Swimwear;Fines (Penalties);Norway",
+      "column": null,
+      "byline": "By Jenny Gross",
+      "type": "Article",
+      "title": "Women’s Handball Players Are Fined for Rejecting Bikini Uniforms",
+      "abstract": "Norway’s beach handball players were each fined 150 euros for wearing shorts rather than the required bikini bottoms. A spokeswoman for the International Handball Federation said she didn’t know the reason for the rule.",
+      "des_facet": [
+        "Handball",
+        "Women and Girls",
+        "Discrimination",
+        "Uniforms",
+        "Team Handball",
+        "Athletics and Sports",
+        "Bathing Suits and Swimwear",
+        "Fines (Penalties)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Norway"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Norway’s women’s beach handball team was fined after wearing shorts instead of bikini bottoms during a game on Sunday.",
+          "copyright": "Norwegian Handball Federation",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/20/us/20xp-norway-beach2/20xp-norway-beach2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/20/us/20xp-norway-beach2/20xp-norway-beach2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/20/us/20xp-norway-beach2/20xp-norway-beach2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/43a0a95d-de8d-50fd-8f4a-7827277c60e8",
+      "url": "https://www.nytimes.com/2021/07/13/well/mind/sleep-insomnia-tips.html",
+      "id": 100000007858738,
+      "asset_id": 100000007858738,
+      "source": "New York Times",
+      "published_date": "2021-07-13",
+      "updated": "2021-07-20 00:22:11",
+      "section": "Well",
+      "subsection": "Mind",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Sleep;Meditation;Anxiety and Stress;Insomnia;Mobile Applications;Melatonin (Hormone)",
+      "column": null,
+      "byline": "By Anahad O’Connor",
+      "type": "Article",
+      "title": "I’m Often Wide Awake at 3 A.M. How Do I Get Back to Sleep?",
+      "abstract": "Sleep experts offer advice on sleeping soundly through the night.",
+      "des_facet": [
+        "Content Type: Service",
+        "Sleep",
+        "Meditation",
+        "Anxiety and Stress",
+        "Insomnia",
+        "Mobile Applications",
+        "Melatonin (Hormone)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/20/well/13askwell-sleep1/13askwell-sleep1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/20/well/13askwell-sleep1/13askwell-sleep1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/20/well/13askwell-sleep1/13askwell-sleep1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c8847900-bf45-5645-96ba-3a420e204504",
+      "url": "https://www.nytimes.com/2021/07/14/us/apt-cape-cod-restaurant-workers-covid.html",
+      "id": 100000007864258,
+      "asset_id": 100000007864258,
+      "source": "New York Times",
+      "published_date": "2021-07-14",
+      "updated": "2021-07-15 10:40:06",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Restaurants;Waiters and Waitresses;Shortages;Workplace Hazards and Violations;Quarantine (Life and Culture);Coronavirus Reopenings;Apt Cape Cod (Brewster, Mass, Restaurant);Brewster (Mass);Cape Cod (Mass)",
+      "column": null,
+      "byline": "By Neil Vigdor",
+      "type": "Article",
+      "title": "Restaurant Shuts Down for a ‘Day of Kindness’ After Customers Make Its Staff Cry",
+      "abstract": "The owners of Apt Cape Cod, a farm-to-table restaurant in Brewster, Mass., drew a line in the sand against customers’ rude behavior since being allowed to fully reopen.",
+      "des_facet": [
+        "Restaurants",
+        "Waiters and Waitresses",
+        "Shortages",
+        "Workplace Hazards and Violations",
+        "Quarantine (Life and Culture)",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": [
+        "Apt Cape Cod (Brewster, Mass, Restaurant)"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Brewster (Mass)",
+        "Cape Cod (Mass)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brandi Felt Castellano, left, and Regina Felt Castellano are the owners of Apt Cape Cod.",
+          "copyright": "via Brandi Felt Castellano",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/14/nyregion/14xp-restauran/14xp-restauran-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/14/nyregion/14xp-restauran/14xp-restauran-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/14/nyregion/14xp-restauran/14xp-restauran-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/06a896e0-879b-5d8c-9eed-00f70c8d082b",
+      "url": "https://www.nytimes.com/2021/07/06/sports/olympics/shacarri-richardson-olympics-team.html",
+      "id": 100000007851266,
+      "asset_id": 100000007851266,
+      "source": "New York Times",
+      "published_date": "2021-07-06",
+      "updated": "2021-07-23 21:52:34",
+      "section": "Sports",
+      "subsection": "Olympics",
+      "nytdsection": "sports",
+      "adx_keywords": "Olympic Games (2020);Marijuana;Tests (Drug Use);Track and Field;Doping (Sports);Richardson, Sha'Carri;USA Track and Field",
+      "column": null,
+      "byline": "By Matthew Futterman",
+      "type": "Article",
+      "title": "Sha’Carri Richardson, Not Chosen for U.S. Relay, Will Miss Tokyo Olympics",
+      "abstract": "The star sprinter, who lost a chance to run in the 100-meter individual event after failing a drug test for marijuana, could have been chosen for the relay team. But officials decided not to include her.",
+      "des_facet": [
+        "Olympic Games (2020)",
+        "Marijuana",
+        "Tests (Drug Use)",
+        "Track and Field",
+        "Doping (Sports)"
+      ],
+      "org_facet": [
+        "USA Track and Field"
+      ],
+      "per_facet": [
+        "Richardson, Sha'Carri"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sha’Carri Richardson won the 100-meter race at the U.S. trials, but the positive test will prevent her from competing in Tokyo.",
+          "copyright": "Chang W. Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/06/sports/06oly-richardson-1/06oly-richardson-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/06/sports/06oly-richardson-1/06oly-richardson-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/06/sports/06oly-richardson-1/06oly-richardson-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a2885e3e-9fe8-5b94-833c-5dc1d36a24e3",
+      "url": "https://www.nytimes.com/2021/07/17/health/erin-gilmer-dead.html",
+      "id": 100000007866819,
+      "asset_id": 100000007866819,
+      "source": "New York Times",
+      "published_date": "2021-07-17",
+      "updated": "2021-07-18 23:10:22",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Deaths (Obituaries);Health Insurance and Managed Care;Medicine and Health;Legal Profession;Disabilities;Gilmer, Erin (1982-2021);Colorado",
+      "column": null,
+      "byline": "By Clay Risen",
+      "type": "Article",
+      "title": "Erin Gilmer, Disability Rights Activist, Dies at 38",
+      "abstract": "She fought for a more compassionate health care system, bringing an extensive knowledge of policy and even more extensive firsthand experience as a patient.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Health Insurance and Managed Care",
+        "Medicine and Health",
+        "Legal Profession",
+        "Disabilities"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Gilmer, Erin (1982-2021)"
+      ],
+      "geo_facet": [
+        "Colorado"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Erin Gilmer in 2012. She was a consultant to hospitals, universities and pharmaceutical companies even while struggling with a number of debilitating conditions.",
+          "copyright": "Christopher Kern",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/19/obituaries/19Gilmer-obit/15Gilmer-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/19/obituaries/19Gilmer-obit/15Gilmer-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/19/obituaries/19Gilmer-obit/15Gilmer-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d2cec17c-31f4-564f-b904-bd6dc67e6e87",
+      "url": "https://www.nytimes.com/2021/07/12/us/politics/child-tax-credit-payments.html",
+      "id": 100000007852184,
+      "asset_id": 100000007852184,
+      "source": "New York Times",
+      "published_date": "2021-07-12",
+      "updated": "2021-08-02 21:05:39",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Child Tax Credits and Stipends;United States Politics and Government;Stimulus (Economic);American Rescue Plan (2021);Welfare (US);Children and Childhood;Poverty;Biden, Joseph R Jr;United States",
+      "column": null,
+      "byline": "By Jason DeParle",
+      "type": "Article",
+      "title": "Monthly Payments to Families With Children to Begin",
+      "abstract": "The Biden administration will send up to $300 per child a month to most American families thanks to a temporary increase in the child tax credit that advocates hope to extend.",
+      "des_facet": [
+        "Child Tax Credits and Stipends",
+        "United States Politics and Government",
+        "Stimulus (Economic)",
+        "American Rescue Plan (2021)",
+        "Welfare (US)",
+        "Children and Childhood",
+        "Poverty"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students at a summer program in New York this month. Nearly nine in 10 children will qualify for the new monthly payments under an expanded version of the child tax credit.",
+          "copyright": "Jose A. Alvarado Jr. for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/10/us/politics/10dc-childtax1-sub/10dc-childtax1-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/10/us/politics/10dc-childtax1-sub/merlin_190446834_14743110-1b6d-4c88-8238-4ef148d43bc7-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/10/us/politics/10dc-childtax1-sub/merlin_190446834_14743110-1b6d-4c88-8238-4ef148d43bc7-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
